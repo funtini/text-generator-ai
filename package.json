@@ -1,8 +1,17 @@
 {
   "name": "alt-tag-generator",
-  "repository": "https://github.com/vercel/examples.git",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/funtini/text-generator-ai.git"
+  },
+  "keywords": [
+    "next",
+    "tea",
+    "ai",
+    "weather"
+  ],
   "license": "MIT",
-  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
