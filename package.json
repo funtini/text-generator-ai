@@ -19,6 +19,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "degen-watch": "^0.1.1",
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
